@@ -1,4 +1,4 @@
-🔐 Secure Code Review Challenge
+ Secure Code Review Challenge
 
 A hands-on learning environment for AppSec, DevSecOps, and secure coding
 
@@ -6,7 +6,7 @@ A hands-on learning environment for AppSec, DevSecOps, and secure coding
 
 This project is an intentionally vulnerable Node.js application designed for secure code review practice, AppSec training, and DevSecOps learning.
 
-You will analyze real insecure patterns, identify vulnerabilities, and propose secure fixes — just like a real-world assessment.
+You will analyze real insecure patterns, identify vulnerabilities, and propose secure fixes just like a real-world assessment.
 
 The challenge includes vulnerabilities such as:
 
@@ -24,13 +24,13 @@ The challenge includes vulnerabilities such as:
 
 🎯 Objectives
 
-By completing this challenge, you will:
+By completing this challenge, you will:<br>
 
-✔ Develop your secure code review skills
-✔ Identify common vulnerabilities in backend code
-✔ Understand how insecure patterns translate into real exploits
-✔ Practice writing remediation recommendations
-✔ Strengthen your DevSecOps mindset (“security early”)
+✔ Develop your secure code review skills<br>
+✔ Identify common vulnerabilities in backend code<br>
+✔ Understand how insecure patterns translate into real exploits<br>
+✔ Practice writing remediation recommendations<br>
+✔ Strengthen your DevSecOps mindset (“security early”)<br>
 
 🛠 Tech Stack
 
@@ -44,12 +44,12 @@ Raw, intentionally vulnerable logic
 
 📂 Project Structure
 
-insecure-blog-api/
-│
-├── app.js          # Main vulnerable Node.js application
-├── blog.db         # Auto-generated SQLite database
-├── package.json
-└── README.md
+**insecure-blog-api/ <br>
+│<br>
+├── app.js          # Main vulnerable Node.js application<br>
+├── blog.db         # Auto-generated SQLite database<br>
+├── package.json<br>
+└── README.md**
 
 
 🚀 Getting Started
@@ -144,4 +144,5 @@ Pull requests are welcome!
 📣 Share Your Results
 
 Post your findings, report, or fixes and tag:
+
 #AppSec #DevSecOps #SecureCoding #CyberSecurity
